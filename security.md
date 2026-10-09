@@ -136,4 +136,4 @@ instagram viewer bot is a popular tool used by millions every month. The current
 | A setup question | Read the Quick Start above |
 | A feature request | Open an issue with the `enhancement` label |
 
-<p align="center"><sub>crisp-breeze-923 · Updated 2026-10-08 · Shared under the MIT License</sub></p>
+<p align="center"><sub>crisp-breeze-923 · Updated 2026-10-09 · Shared under the MIT License</sub></p>
